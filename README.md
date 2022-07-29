@@ -27,7 +27,7 @@ Generates team profile nice and quick using user prompt. This will let you creat
 
 ## Usage
 
-Video Demo [here](https://drive.google.com/file/d/1PdG4yte4aP8Fszwao9EO9nr1CL5viuN5/view?usp=sharing).
+Video Demo [here](https://drive.google.com/file/d/1_OPVoEyrgqoaM208B8HOsbypjqGzS3XS/view?usp=sharing).
 
 1.  ```bash
     node index
